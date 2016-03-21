@@ -1,0 +1,22 @@
+{
+  "name": "myResume",
+  "authors": [
+    "orangealbum <orangealbum@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "pagePiling.js": "pagepiling.js#^1.5.3"
+  }
+}

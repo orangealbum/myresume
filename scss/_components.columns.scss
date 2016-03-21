@@ -1,0 +1,25 @@
+.row {
+    position: relative;
+
+    &:after {
+        clear: both;
+    }
+}
+.col-1,
+.col-3 {
+  height: 100px;
+  margin-top:10px;
+}
+.col-1 {
+  width: 25%;
+  float: left;
+  text-align: center;
+}
+.col-3 {
+  width:75%;
+  float:left;
+  padding-top:5px;
+  h2 {
+    color:#008a75;
+  }
+}
