@@ -25,7 +25,9 @@ h1, h2, h3, h4, h5, h6 {
 ul {
     color: $clr-light;
 }
-
+span {
+  color:$clr-link;
+}
 #title {
     margin: 0.25em 0 0 0;
 }
@@ -37,7 +39,6 @@ ul {
 #myMail {
   color:$clr-link;
 }
-
 .tag-panel {
     margin: 15px auto;
 }
